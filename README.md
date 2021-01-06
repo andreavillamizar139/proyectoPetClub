@@ -1,5 +1,5 @@
 
-![Aquí la descripción de la imagen por si no carga](https://github.com/andreavillamizar139/proyectoPetClub/blob/main/Inicio-PETCLUB.JPG)
+![Imagen interfaz de proyecto](https://github.com/andreavillamizar139/proyectoPetClub/blob/main/Inicio-PETCLUB.JPG)
 # proyectoPetClub
 Proyecto realizado para la materia ingeniería de sistemas II.
 En este proyecto se implementó HTML5, CSS, JavaScript, PHP, MySql.
